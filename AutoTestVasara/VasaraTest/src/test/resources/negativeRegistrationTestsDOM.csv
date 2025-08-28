@@ -1,0 +1,9 @@
+registrationEmail,registrationPassword,registrationConfirmPassword,errorMessage
+pavartotojas@gmailgmailgmailgmailgmailgmailgmailgmail.com,password123@,password123@,Email is allowed up to 50 characters
+pavartotojas@gmail.com,password123,password123,Password must contain at least one special character
+pavartotojas@gmail.com,password@@@,password@@@,Password must contain at least one number
+pavartotojas@gmail.com,pass1@,pass1@,Password must be at least 8 characters
+"",password123@,password123@,Email is required
+pavartotojas@gmail.com,"",password123@,Password is required
+pavartotojas@gmail.com,password123@,"",Confirm Password is required
+pavartotojas@gmail.com,password123@,password1234@,Password and password confirmation do not match. Please try again.
